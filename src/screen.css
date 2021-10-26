@@ -1,0 +1,16 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+}
+.main{
+    display: block;
+}
+.section{
+    width: 49%;
+    display: inline-block;
+}
+.aligntop{
+    vertical-align: top;
+}
