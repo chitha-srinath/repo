@@ -5,3 +5,57 @@
 width: 100%;
 height: 100%;
 }
+.card1,
+.card2 {
+  display: flex;
+  margin-top: 70px;
+  height: 60vh;
+  justify-content: center;
+}
+.image {
+  position: relative;
+  width: 30vw;
+  background-color: rgb(103, 219, 103);
+}
+p {
+  text-align: left;
+  padding-right: 200px;
+  margin-bottom: -40px;
+  position: relative;
+  top: -100px;
+}
+h1 {
+  text-align: left;
+  padding-right: 200px;
+  padding-bottom: 50px;
+  position: relative;
+  top: -70px;
+}
+
+.text {
+  width: 40vw;
+  padding: 100px;
+}
+button {
+  height: 30px;
+  width: 80px;
+  border-radius: 15px;
+  background-color: rgb(103, 219, 103);
+  text-align: center;
+}
+.pic1 {
+  height: 500px;
+  width: auto;
+  padding-top: 20px;
+  position: absolute;
+  bottom: 5px;
+  left: -15px;
+}
+.pic2 {
+  height: 400px;
+  width: auto;
+  padding-top: 20px;
+  position: absolute;
+  bottom: 5px;
+  left: -10px;
+}
